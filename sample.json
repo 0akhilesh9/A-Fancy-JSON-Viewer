@@ -1,0 +1,17 @@
+{
+    "Person": {
+        "Name": "Json viewer dev",
+		"Other details": {
+            "Age": "2 digit number",
+			"Application Details": {
+                "Details": {
+                    "Name": "JSON viewer",
+					"Language": "JAVA",
+					"Development time": "A day or two",
+					"Motivation": "Just got bored",
+					"Comments": "Just a fancy JSON viewer"
+                }
+            }
+        }
+    }
+}
